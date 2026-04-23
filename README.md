@@ -107,7 +107,6 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-> Add screenshots like:
 
 * Dashboard view <img width="1208" height="1446" alt="expense-tracker-redc onrender com_dashboard (1)" src="https://github.com/user-attachments/assets/af7d347a-decc-407e-8982-bfe16be8fd79" />
 
