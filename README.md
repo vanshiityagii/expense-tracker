@@ -109,9 +109,12 @@ http://127.0.0.1:5000
 
 > Add screenshots like:
 
-* Dashboard view
-* Pie chart visualization
-* Login/Register pages
+* Dashboard view <img width="1208" height="1446" alt="expense-tracker-redc onrender com_dashboard (1)" src="https://github.com/user-attachments/assets/af7d347a-decc-407e-8982-bfe16be8fd79" />
+
+* Login/Register pages <img width="1228" height="710" alt="expense-tracker-redc onrender com_register" src="https://github.com/user-attachments/assets/5f37cae1-167b-40d0-a058-175d96c9d10b" />
+<img width="1228" height="603" alt="expense-tracker-redc onrender com_login" src="https://github.com/user-attachments/assets/667c1dc8-bfa0-4ddf-8606-c87b06da42a2" />
+
+  
 
 ---
 
